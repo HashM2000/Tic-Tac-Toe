@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
-Coventry University Project (1st year)
-
+<b>Coventry University Project (1st year)<b>
+<br>
+<br>
 A Tic-Tac-Toe game developed in Python
 <br>
 <br>
